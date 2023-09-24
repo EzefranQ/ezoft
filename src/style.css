@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+    --main-color-text: #792dc3; 
+}
+
+* { 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    -webkit-tap-highlight-color: rgba(0,0,0,0); 
+}
+
+@font-face {
+    font-family: 'Supply';
+    src: url('/src/assets/font/PPSupplySans-Regular.otf');
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Space';
+    src: url('/src/assets/font/SpaceGrotesk-Regular.ttf');
+    font-display: swap;
+}
+
+body{
+    background: #000;
+    height: 100vh;
+    color: #ffff;
+    overflow-x: hidden;
+    font-family: 'Supply';
+}
+
+p, a{
+    font-family: 'Space';
+}

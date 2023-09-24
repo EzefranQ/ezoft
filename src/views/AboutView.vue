@@ -100,7 +100,7 @@
                         <header class="h-[250px]">
                             <p class="text-3xl sm:text-4xl">Básico</p>
                             <p class="mt-4 opacity-60 text-base sm:text-lg">Landing Page o Sitio Web estático con 3 secciones totalmente único y a medida.</p>
-                            <p class="py-8 text-5xl sm:text-6xl flex items-center gap-4">
+                            <p class="py-6 text-5xl sm:text-6xl flex items-center gap-4">
                                 <span class="text-xl block">U$D</span>
                                 149
                             </p>
@@ -140,7 +140,7 @@
                         <header class="h-[250px]">
                             <p class="text-3xl sm:text-4xl">Personalizado</p>
                             <p class="mt-4 opacity-60 text-base sm:text-lg">Webs Dinámicas totalmente personalizadas desde Tiendas Online hasta una Web Application</p>
-                            <p class="py-8 mt-2.5 text-2xl sm:text-3xl flex items-center gap-4">
+                            <p class="py-6 mt-2.5 text-2xl sm:text-3xl flex items-center gap-4">
                                 <span class="text-lg block">U$D</span>
                                 Precio a Convenir
                             </p>
@@ -180,7 +180,7 @@
                         <header class="h-[250px]">
                             <p class="text-3xl sm:text-4xl">Intermedio</p>
                             <p class="mt-4 opacity-60 text-base sm:text-lg">Sitio Web con 3 secciones o más. El precio puede variar en base al número de secciones</p>
-                            <p class="py-8 text-5xl sm:text-6xl flex items-center gap-4">
+                            <p class="py-6 text-5xl sm:text-6xl flex items-center gap-4">
                                 <span class="text-xl block">U$D</span>
                                 269
                             </p>
